@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vitorms042&label=Profile%20views&color=0e75b6&style=flat" alt="Vitorms042" /> </p>
 
-- 🔭 Atualmente estou trabalhando na **Puc Minas**
+- 🔭 Atualmente estou trabalhando na **IAM EdTech**
 
-- 🌱 Atualmente estou aprendendo **PostgreSQl e JavaScript**
+- 🌱 Atualmente estou aprendendo **React.js e Python**
 
 - 📫 Como entrar em contato comigo **vitorms042@gmail.com**
 
