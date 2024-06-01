@@ -10,9 +10,9 @@
 
 - 📫 Como entrar em contato comigo **vitorms042@gmail.com**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/vitor-manoel-silva-41b794236](https://www.linkedin.com/in/vitor-manoel-silva-41b794236)
+- 📄 Conheça minhas experiências [https://www.linkedin.com/in/vitor-manoel-silva-41b794236](www.linkedin.com/in/vitor-manoel-silva-)
 
-<h3 align="left">Conecte-se comigo: https://www.linkedin.com/in/vitor-manoel-silva-41b794236</h3>
+<h3 align="left">Conecte-se comigo: www.linkedin.com/in/vitor-manoel-silva-</h3>
 <p align="left">
 </p>
 
