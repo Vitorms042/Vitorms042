@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, sou Vitor Silva</h1>
-<h3 align="center">Software Engineer | JavaScript | Java | C | PostgreSQL</h3>
+<h3 align="center">Front-End Developer | JavaScript | TypeScript | Java | PostgreSQL | React.Js | Node.Js</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vitorms042&label=Profile%20views&color=0e75b6&style=flat" alt="Vitorms042" /> </p>
 
 - 🔭 Atualmente estou trabalhando na **IAM EdTech**
 
-- 🌱 Atualmente estou aprendendo **React.js e Python**
+- 🌱 Atualmente estou aprendendo **Angular.Js e Python**
 
 - 📫 Como entrar em contato comigo **vitorms042@gmail.com**
 
