@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vitor Silva</h1>
-<h3 align="center">Front-End Developer | JavaScript | TypeScript | React.Js | Node.Js | Java</h3>
+<h3 align="center">Front-End Developer | JavaScript | TypeScript | React.Js | Node.Js | Angular.Js | Stencil.Js | Python</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vitorms042&label=Profile%20views&color=0e75b6&style=flat" alt="Vitorms042" /> </p>
 
-- 🔭 I’m currently working on **IAM EdTech**
+- 🔭 I’m currently working on **SYDLE**
 
 - 🌱 I’m currently learning **Angular.Js and Python**
 
